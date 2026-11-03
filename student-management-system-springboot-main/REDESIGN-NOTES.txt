@@ -1,0 +1,13 @@
+FRIEND'S STUDENT MANAGEMENT SYSTEM — REDESIGNED UI
+
+Design direction: Northstar Campus — forest green, warm ivory, muted terracotta, Manrope/DM Sans typography.
+The redesign updates the Angular admin shell, dashboard layout, shared CSS, and visual styling across the existing pages.
+Existing Angular routes, API service calls, form bindings, and Spring Boot backend files are preserved.
+
+Run:
+1. Open student-management-frontend in CMD.
+2. npm install
+3. npm start
+
+Backend:
+Run the existing Spring Boot application as before.
